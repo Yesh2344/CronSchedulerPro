@@ -9,4 +9,5 @@ public interface Job {
      * The logic that will be executed when the scheduler triggers the job.
      */
     void execute();
+// noticed this could be clearer
 }
