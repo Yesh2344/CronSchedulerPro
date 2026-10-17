@@ -19,6 +19,7 @@ public class CronSchedulerTest {
     public void testInvalidCronExpression() {
         String invalidCron = "invalid cron";
         CronExpressionParser.getDelayUntilNextExecution(invalidCron);
+// tiny readability tweak
     }
 
     @Test
