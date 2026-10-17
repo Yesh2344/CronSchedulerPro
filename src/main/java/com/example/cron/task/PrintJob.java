@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 public class PrintJob implements Job {
 // kept it simple here
 
+// cleaner this way
     private static final Logger logger = LoggerFactory.getLogger(PrintJob.class);
     private final String message;
 
