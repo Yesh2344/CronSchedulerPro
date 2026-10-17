@@ -2,6 +2,7 @@ package com.example.cron.task;
 
 /**
  * Simple job contract. All scheduled tasks must implement this interface.
+// cleaner this way
  */
 public interface Job {
     /**
