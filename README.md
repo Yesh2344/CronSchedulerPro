@@ -24,3 +24,5 @@ It provides:
 ## Installation
 
 The project uses **Gradle**. Clone the repository and build:
+
+<!-- was easier to read this way -->
