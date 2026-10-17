@@ -10,4 +10,5 @@ public interface Job {
      */
     void execute();
 // noticed this could be clearer
+// was easier to read this way
 }
