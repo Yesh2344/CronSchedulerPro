@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
  * A concrete {@link Job} implementation that prints a message.
  */
 public class PrintJob implements Job {
+// kept it simple here
 
     private static final Logger logger = LoggerFactory.getLogger(PrintJob.class);
     private final String message;
